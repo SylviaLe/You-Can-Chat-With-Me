@@ -1,0 +1,11 @@
+1, Work on the login, including create a new id
+2, Register a custom hook to store the id 
+3, Work on the dashboard and sidebar (style)
+4, The contact modal
+5, The contact context
+6, Rendering the info to the sidebar
+7, Repeat 4-6 for the conversation
+8, Style the conversation side of the screen
+9, Add a message to the conversation (sender, receiver, txt)
+10, Style the messages
+11, Server side setup (init, install socket.io, nodemon, add script to package.json, start server.js)
